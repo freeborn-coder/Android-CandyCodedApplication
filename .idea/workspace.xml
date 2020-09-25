@@ -9,11 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,12 +189,27 @@
       <option name="project" value="LOCAL" />
       <updated>1601067505505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="'added launch infoActivity to onoptionsitemselected in mainactivity'">
+      <created>1601068707625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601068707625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add clicklistener to address textview">
+      <created>1601068956317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601068956317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'added launch infoActivity to onoptionsitemselected in mainactivity'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'added launch infoActivity to onoptionsitemselected in mainactivity'" />
+    <MESSAGE value="add clicklistener to address textview" />
+    <option name="LAST_COMMIT_MESSAGE" value="add clicklistener to address textview" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1601067140284">
@@ -213,10 +224,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="271" y="53" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.768@0.0.1366.768" timestamp="1601065261755" />
-    <state x="207" y="57" width="994" height="668" key="CommitChangelistDialog2" timestamp="1601068768709">
+    <state x="192" y="31" width="987" height="606" key="CommitChangelistDialog2" timestamp="1601068982324">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="207" y="57" width="994" height="668" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601068768709" />
+    <state x="192" y="31" width="987" height="606" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601068982324" />
     <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1601068678809">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
