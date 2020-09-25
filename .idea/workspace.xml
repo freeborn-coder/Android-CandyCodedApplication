@@ -9,7 +9,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601068956317</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add clicklistener to address textview">
+      <created>1601069138095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601069138095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add clicklistener to address textview">
+      <created>1601069213464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601069213464</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,10 +242,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="271" y="53" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.768@0.0.1366.768" timestamp="1601065261755" />
-    <state x="192" y="31" width="987" height="606" key="CommitChangelistDialog2" timestamp="1601069149976">
+    <state x="192" y="31" width="987" height="683" key="CommitChangelistDialog2" timestamp="1601069212675">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="192" y="31" width="987" height="606" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601069149976" />
+    <state x="192" y="31" width="987" height="683" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601069212675" />
     <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1601068678809">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -244,10 +262,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601068678808" />
-    <state x="283" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601068711505">
+    <state x="283" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601069233779">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="131" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601068711505" />
+    <state x="283" y="131" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601069233779" />
     <state x="355" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1601065134555">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
